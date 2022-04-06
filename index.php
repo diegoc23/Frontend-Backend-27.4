@@ -3,16 +3,16 @@
 
     switch($_REQUEST)
     {
-        case "GET";
+        case "GET":
         break;
             
-        case "POST";
+        case "POST":
         break;
             
-        case "PUT"
+        case "PUT":
         break;
             
         default:
-        echo: "Errore.";
+        echo "Errore.";
         break;
 ?>
